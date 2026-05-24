@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# Generated Files
+visitor_photos/
+generated_pdfs/
+qr_codes/
+
+# Streamlit Secrets
+.streamlit/
+
+# Mac Files
+.DS_Store
+
+# Logs
+*.log
